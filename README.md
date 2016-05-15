@@ -4,7 +4,7 @@ Just another repository
 * Fruit
 * Trees
 * Lisp
-* 
+
 ## What Anthony Ape Tolerates
 * Python
 * C/C++
