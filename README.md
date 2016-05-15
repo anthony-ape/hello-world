@@ -6,6 +6,7 @@ Just another repository
 * Lisp
 
 ## What Anthony Ape Tolerates
+* Other apes (in moderation)
 * Python
 * C/C++
 * Javascript
