@@ -1,7 +1,8 @@
 # hello-world
-Just another repository
+Hi humans!
 ## What Anthony Ape Likes
 * Fruit
+* Vegetables
 * Trees
 * Lisp
 
